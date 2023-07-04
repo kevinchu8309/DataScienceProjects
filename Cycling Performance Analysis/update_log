@@ -1,0 +1,10 @@
+# Update - July, 4th, 2023
+# Redo this project in Python.
+# Content in this edition
+1. Data Cleaning
+2. Forecasting for fitness with Prophet model and ARIMA/SARIMAX models, as well as fine-tuning parameters
+3. PandasAI - a package allow user to interact with LLM
+
+# Future content
+1. EDA
+2. Combine with other data to predict finish time for racings
