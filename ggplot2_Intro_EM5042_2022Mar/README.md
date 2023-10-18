@@ -1,4 +1,4 @@
-# ggplot2 Beginner Intro - EM5042
+# ggplot2 Beginner Tutorial - EM5042
 The introduction of ggplot2 using the data from real-world industry process control.
 
 ### ----- Briefly explain what those data are -----
